@@ -1,0 +1,23 @@
+{
+  "name": "riot-todo",
+  "version": "1.0.0",
+  "description": "Riot TodoMVC Example",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "riot": "^2.2.4",
+    "todomvc-app-css": "^2.0.1",
+    "todomvc-common": "^1.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-install": "^0.5.0",
+    "gulp-riot": "^0.3.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
